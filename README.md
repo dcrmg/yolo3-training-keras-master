@@ -31,8 +31,8 @@ python convert.py ./cfg/yolov3.cfg yolov3.weights yolo.h5
 python yolo.py
 ```
 
-PS:
 
+PS:
 1. change value of 'self.score' in yolo.py to adjust detection threshold
 2. In my case, I trained 400 epoch with 200 pictures,it is far from enough to obtain a good test result.
 3. some examples:
