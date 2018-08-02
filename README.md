@@ -4,20 +4,23 @@
 
 ## Introduction
 
-. use YOLOv3 training with own data
-. Compile YOLOv3 training on GPU
-. A Keras implementation of YOLOv3 detection inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
+1. use YOLOv3 training with own data
+2. Compile YOLOv3 training on GPU
+3. A Keras implementation of YOLOv3 detection inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
 
 
 ---
+
 
 ## YOLOv3 training
 
 see [YOLOv3训练自己的数据](https://blog.csdn.net/dcrmg/article/details/81296520) for details.
 
+
 ## YOLOv3 training with GPU
 
 see [darknet YOLO 编译使用GPU](https://blog.csdn.net/dcrmg/article/details/78565350) for details.
+
 
 ## Keras implementation of YOLOv3
 
@@ -38,6 +41,8 @@ PS:
 3. some examples:
 
 ![Alt text](https://github.com/dcrmg/yolo3-training-keras-master/blob/master/pic/01_result.jpg)
+
 ![Alt text](https://github.com/dcrmg/yolo3-training-keras-master/blob/master/pic/02_result.jpg)
+
 ![Alt text](https://github.com/dcrmg/yolo3-training-keras-master/blob/master/pic/03_result.jpg)
 
